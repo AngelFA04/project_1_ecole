@@ -53,6 +53,54 @@ Para cumplir con los objetivos y mejorar el producto se plantean las siguientes 
    - Implementación de una IA que sintetice los capítulos leídos y genere preguntas de comprensión lectora
    - Dispositivo ultra resistente, al agua y el polvo sin perder la estética.
 
+### Entrega 2 Proyecto ecole
+
+##### Job to be done 
+- El producto otorga al usuario la capacidad de acceder fácil e inmediatamente a la información;  proporciona confort a los usuarios que lo usan brindando un amplio catálogo de productos, de esta manera suple su necesidad de conocimiento.
+
+##Framework 11 estrellas
+
+⭐
+No acepta formatos estándar, solo acepta formatos raros. No funciona la pantalla correctamente. Diseño de mala calidad en la estructura.
+
+⭐⭐
+Duración de la batería muy limitada. El texto se desborda. 
+
+
+⭐⭐⭐
+Falta de configuración en las fuentes. Mucha publicidad. Falta de conexión inalámbrica, solo alámbrica. No permita visualizar contenido offline, o este sea limitado. No se pueden tomar notas ni organizar lecturas adecuadamente.
+
+
+⭐⭐⭐⭐
+
+Funciona con problemas de velocidad.
+
+⭐⭐⭐⭐⭐
+Permite tomar notas y agregar marcadores. Descargar fácilmente libros de tiendas. Acepta la mayoría de formatos estándar (PDF). Tiene fluidez. La pantalla y el texto resultan cómodos. Acceso a internet y páginas de consulta (Wikipedia). Un kindle básicamente. Buena memoria. Luz LED.
+
+
+
+6  ⭐
+Acepte todos los formatos estándar, y se puedan descargar libros de cualquier tienda. A prueba de agua
+
+7 ⭐
+Ultra resistente, protección de grado militar sin perder la estética. 
+Bibliotecas completamente independientes para cada usuario, ej: Netflix.
+Traductor universal. Grupos de lectura.
+
+
+8 ⭐
+Una pluma que permite tomar notas en cada página o de forma independientemente.
+
+9 ⭐
+Poder leer contenido con ambientación gráfica y auditiva usando VR o AR.
+
+10 ⭐
+Por medio de alianzas estrategicas oferecer contenido gratuito e ilimitado a un genero preferido por el usuario.
+
+11 ⭐
+IA que sintetice los capítulos leídos y te genere preguntas de comprensión lectora. Un libro físico que se metamorfiza, la portada se adapta al libro real que se está leyendo en el momento, sería como un libro real plegable.
+
 ## Integrantes
 - Wilson Antury
 - Brayan Potosi
