@@ -13,11 +13,11 @@ A continuación se listaran las propuestas del feature de 7 estrellas, con sus r
 
 	- Es importante ofrecer la posibilidad de conectar usuarios y construir comunidad, ya que no solo es beneficioso para el usuario al mejorar su experiencia con el producto, sino que es una herramienta poderosa para fortalecer el producto dentro del mercado. Para poner en marcha esta estrategia de forma rápida y escalonada, estas serían las primeras acciones hacia la construcción de una herramienta de comunidad sólida:
 
-	- Implementación de un chat visible en una sección de temas en la interfaz de lectura que permita generar conversación entre lectores con intereses comunes.
+		- Implementación de un chat visible en una sección de temas en la interfaz de lectura que permita generar conversación entre lectores con intereses comunes.
 
-	- Crear un mecanismo para compartir libros de pago, a manera de préstamo entre usuarios, para se pueda fomentar la conexión y aumento de interacción entre los mismos.
+		- Crear un mecanismo para compartir libros de pago, a manera de préstamo entre usuarios, para se pueda fomentar la conexión y aumento de interacción entre los mismos.
 
-	- Listar usuarios que han leído el libro de nuestro interés para entablar una conversación directa con ellos.
+		- Listar usuarios que han leído el libro de nuestro interés para entablar una conversación directa con ellos.
 
 - **Gamification por leer libros otorgando quizzes por secciones de libro**.
   - El feature se desarrollará inicialmente tomando los libros más populares de no ficción y con base a ello crear quizzes de comprensión lectora por capítulo del libro, ofreciendo la posibilidad al usuario de tomarlos al momento de acabar el capítulo. Para poder implementar de forma rápida el feature y generar un interés en sus uso se implementarán las siguientes estrategias:
